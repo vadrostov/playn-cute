@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/playn-cute.iml" filepath="$PROJECT_DIR$/playn-cute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assets/playn-cute-assets.iml" filepath="$PROJECT_DIR$/assets/playn-cute-assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/playn-cute-core.iml" filepath="$PROJECT_DIR$/core/playn-cute-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/playn-cute-java.iml" filepath="$PROJECT_DIR$/java/playn-cute-java.iml" />
+    </modules>
+  </component>
+</project>
